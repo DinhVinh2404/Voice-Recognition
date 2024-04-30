@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Voice Recognition</string>
     <string name="start_button_text">Start</string>
-    <string name="result_text_default">Bấm nút START - Chúng tôi sẽ bắt đầu nghe</string>
+    <string name="result_text_default">Tôi có thể giúp gì cho bạn?</string>
     <string name="result_placeholder">Văn bản in ở đây </string>
 
 </resources>
